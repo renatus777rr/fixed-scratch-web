@@ -1,4 +1,5 @@
 # Fixing source code of scratch-www
+original repo of scratch website source: https://github.com/scratchfoundation/scratch-www
 # The main problems.
 1. Uh..... why is there some general.somewordidk and aboutus.somewordidkmans
 2. Some sentences are missing after fixing 1. problem.
