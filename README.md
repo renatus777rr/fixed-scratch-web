@@ -4,7 +4,7 @@
 2. Some sentences are missing after fixing 1. problem.
 (if you have other then open issue and then say which)
 # How to fix them
-To fix 1 problem, you need to grab render.jsx from the our repo and replace the old render.jsx with new one. the path to render.jsx is "(the source code of scratch-www)/src/lib". Replace it.
+To fix 1 problem, you need to grab init.js from the our repo and replace the old init.js with new one. the path to init.js is "(the source code of scratch-www)/src/". Replace it.
 To fix 2 problem, you need to grab l10n.json from our repo and place it in the root of source code of scratch-www (not src/ folder) Or you can add to both folders. Now you can see it added.
 
 # Advanced, optional fixing problems.
