@@ -565,5 +565,10 @@
     "about.supportDescription1": "Scratch is available for free, thanks to our supporters. This support helps us provide young people around the world with opportunities to imagine, create, and share.",
     "about.supportDescription2": "Every dollar donated gives one child access to free, playful, and powerful creative learning through the Scratch community.",
     "about.supportDescription3": "Join us in helping kids everywhere create what they imagine.",
-    "about.donateButton": "Donate"
+    "about.donateButton": "Donate",
+    "project.instructionsLabel": "Instructions",
+    "project.seeInsideButton": "See Inside",
+    "project.notesAndCreditsLabel": "Notes and Credits",
+    "project.comments.header": "Comments",
+    "project.comments.turnedOffGlobally": "This project has turned off Comments."
 }
